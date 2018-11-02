@@ -1,4 +1,4 @@
-# Free Wifi Madrid
+# Free Wifi Madrid [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 
 Nodejs library to find free Wi-Fi hotspots in Madrid
 
@@ -25,3 +25,12 @@ freeWifiMadrid({
 ## License
 
 MIT © [Melquiades Vazquez](https://github.com/melquiadesvazquez)
+
+[npm-image]: https://badge.fury.io/js/emtmadrid-lib.svg
+[npm-url]: https://npmjs.org/package/emtmadrid-lib
+[travis-image]: https://travis-ci.org/melquiadesvazquez/freeWifiMadrid.svg?branch=master
+[travis-url]: https://travis-ci.org/melquiadesvazquez/freeWifiMadrid
+[daviddm-image]: https://david-dm.org/melquiadesvazquez/freeWifiMadrid.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/melquiadesvazquez/freeWifiMadrid
+[coveralls-image]: https://coveralls.io/repos/melquiadesvazquez/freeWifiMadrid/badge.svg
+[coveralls-url]: https://coveralls.io/r/melquiadesvazquez/freeWifiMadrid
