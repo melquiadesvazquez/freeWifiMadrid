@@ -1,7 +1,7 @@
 {
   "name": "freewifimadrid",
   "version": "1.0.0",
-  "description": "Nodejs library to find free Wi-Fi hotspots in Madrid",
+  "description": "Nodejs library to find free Wi-Fi hotspots around a location in Madrid",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
